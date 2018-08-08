@@ -1,2 +1,2 @@
-# UnityShaders
-Learning how to write shaders in Unity using NVIDIA Cg,
+# Unity Shaders
+Learning how to write shaders in Unity using NVIDIA Cg.
