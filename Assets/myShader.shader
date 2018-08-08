@@ -39,7 +39,7 @@ Shader "Custom/Cube Shader"{
 					float2 uv : TEXCOORD0;
 					float3 normal : NORMAL;
 				};
-			
+		
 				struct v2f {
 					float4 position : SV_POSITION;
 					float2 uv : TEXCOORD0;
@@ -61,7 +61,6 @@ Shader "Custom/Cube Shader"{
 					
 					return OUT;
 				}
-			
 
 				// Fragment Function
 				// Colour our object!!
